@@ -6,21 +6,21 @@
 
 :root {
 	--text-color: #FFFFFF;
-	--background-color: #36393F;
+	--background-color:#121212;
 	--theme-switcher-span-background-color: #36393F;
 	--theme-switcher-span-color-hover: rgba(255, 255, 255, 0.2);
 	--theme-switcher-button-icon: url(../assets/moon.svg);
 	--theme-switcher-button-icon-background-color: #FFFFFF;
 	--theme-switcher-button-icon-color-hover: rgba(255, 255, 255, 0.2);
 	--link-button-text-color: #FFFFFF;
-	--link-button-background-color: #5865F2;
-	--link-button-background-color-hover: #4752C4;
+	--link-button-background-color: #733cd9;
+	--link-button-background-color-hover: #6830ad;
 	--social-media-icon-color-hover: rgba(255, 255, 255, 0.2);
 }
 
 .lightTheme {
 	--text-color: #000000;
-	--background-color: #FFFFFF;
+	--background-color: #FDFDFD;
 	--theme-switcher-span-background-color: #FFFFFF;
 	--theme-switcher-span-color-hover: rgba(0, 0, 0, 0.2);
 	--theme-switcher-button-icon: url(../assets/sun.svg);
